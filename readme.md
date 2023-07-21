@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A3A60A&background=24FF9E00&width=435&lines=MISHAB+P)](https://git.io/typing-svg)
+
 # 💫 About Me:
 👩‍💻 I'm currently working As Trainee<br><br>🧠 I'm currently learning MERN Stack<br><br>📫 To reach me mail @ mishabsanu298@gmail.com
 
