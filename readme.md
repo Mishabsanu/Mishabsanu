@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A3A60A&background=24FF9E00&width=435&lines=MISHAB+P)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👩‍💻 I'm currently working As Trainee<br><br>🧠 I'm currently learning MERN Stack<br><br>📫 To reach me mail @ mishabsanu298@gmail.com
-
+👨‍💻 I'm a Full Stack Developer with 3.5 years of hands-on experience
+<br><br>💻 Skilled in building scalable web applications using the MERN Stack
+<br><br>📫 Reach me at: mishabsanu298@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amanul_mishab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishab-p-70b570219) 
